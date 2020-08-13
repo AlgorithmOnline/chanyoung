@@ -1,7 +1,7 @@
 #### Solved Problems
 
-+ BOJ: 백준
-+ PG: 프로그래머스
++ BOJ: Baekjoon Online Judge
++ PG: Programmers
 
 ##### [08/12 수요일]
 + [KAKAO_가사 검색](https://programmers.co.kr/learn/courses/30/lessons/60060)
