@@ -14,3 +14,7 @@
 ##### [08/14 금요일]
 + [BOJ3055번: 탈출](https://www.acmicpc.net/problem/3055)
 + [BOJ16681번: 등산](https://www.acmicpc.net/problem/16681)
+
+##### [08/17 월요일]
++ [BOJ10217번: KCM Travel](https://www.acmicpc.net/problem/10217)
++ [BOJ1525번: 퍼즐](https://www.acmicpc.net/problem/1525)
