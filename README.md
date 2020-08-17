@@ -18,3 +18,7 @@
 ##### [08/17 월요일]
 + [BOJ10217번: KCM Travel](https://www.acmicpc.net/problem/10217)
 + [BOJ1525번: 퍼즐](https://www.acmicpc.net/problem/1525)
+
+##### [08/18 화요일]
++ [BOJ2206번: 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
++ [BOJ7562번: 나이트의 이동](https://www.acmicpc.net/problem/7562)
