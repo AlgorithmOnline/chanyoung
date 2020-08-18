@@ -22,3 +22,7 @@
 ##### [08/18 화요일]
 + [BOJ2206번: 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
 + [BOJ7562번: 나이트의 이동](https://www.acmicpc.net/problem/7562)
+
+##### [08/1 수요일]
++ [BOJ10473번: 인간 대포](https://www.acmicpc.net/problem/10473)
++ [BOJ7576: 토마토](https://www.acmicpc.net/problem/7562)
