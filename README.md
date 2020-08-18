@@ -25,4 +25,4 @@
 
 ##### [08/1 수요일]
 + [BOJ10473번: 인간 대포](https://www.acmicpc.net/problem/10473)
-+ [BOJ7576: 토마토](https://www.acmicpc.net/problem/7562)
++ [BOJ7576번: 토마토](https://www.acmicpc.net/problem/7562)
