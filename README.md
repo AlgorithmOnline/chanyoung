@@ -23,6 +23,14 @@
 + [BOJ2206번: 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
 + [BOJ7562번: 나이트의 이동](https://www.acmicpc.net/problem/7562)
 
-##### [08/1 수요일]
+##### [08/19 수요일]
 + [BOJ10473번: 인간 대포](https://www.acmicpc.net/problem/10473)
 + [BOJ7576번: 토마토](https://www.acmicpc.net/problem/7562)
+
+##### [08/20 목요일]
++ [BOJ1496번: 신입 사원](https://www.acmicpc.net/problem/1946)
++ [BOJ2644번: 촌수계산](https://www.acmicpc.net/problem/2644)
+
+##### [08/21 금요일]
++ [BOJ5427번: 불](https://www.acmicpc.net/problem/5427)
++ [BOJ2589번: 보물섬](https://www.acmicpc.net/problem/2589)
