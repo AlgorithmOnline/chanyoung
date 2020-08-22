@@ -28,7 +28,7 @@
 + [BOJ7576번: 토마토](https://www.acmicpc.net/problem/7562)
 
 ##### [08/20 목요일]
-+ [BOJ1496번: 신입 사원](https://www.acmicpc.net/problem/1946)
++ [BOJ1946번: 신입 사원](https://www.acmicpc.net/problem/1946)
 + [BOJ2644번: 촌수계산](https://www.acmicpc.net/problem/2644)
 
 ##### [08/21 금요일]
