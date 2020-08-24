@@ -34,3 +34,7 @@
 ##### [08/21 금요일]
 + [BOJ5427번: 불](https://www.acmicpc.net/problem/5427)
 + [BOJ2589번: 보물섬](https://www.acmicpc.net/problem/2589)
+
+##### [08/24 월요일]
++ [BOJ11723번: 집합](https://www.acmicpc.net/problem/11723)
++ []()
