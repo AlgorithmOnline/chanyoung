@@ -38,3 +38,11 @@
 ##### [08/24 월요일]
 + [BOJ11723번: 집합](https://www.acmicpc.net/problem/11723)
 + [BOJ6603번: 로또](https://www.acmicpc.net/problem/6603)
+
+##### [08/25 화요일]
++ [BOJ9328번: 열쇠](https://www.acmicpc.net/problem/9328)
++ [BOJ2606번: 바이러스](https://www.acmicpc.net/problem/2606)
+
+##### [08/26 수요일]
++ [BOJ1102번: 발전소](https://www.acmicpc.net/problem/1102)
++ []()
