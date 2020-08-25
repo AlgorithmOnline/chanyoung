@@ -37,4 +37,4 @@
 
 ##### [08/24 월요일]
 + [BOJ11723번: 집합](https://www.acmicpc.net/problem/11723)
-+ []()
++ [BOJ6603번: 로또](https://www.acmicpc.net/problem/6603)
