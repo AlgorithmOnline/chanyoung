@@ -46,3 +46,7 @@
 ##### [08/26 수요일]
 + [BOJ1102번: 발전소](https://www.acmicpc.net/problem/1102)
 + [BOJ11724번: 연결 요소의 개수](https://www.acmicpc.net/problem/11724)
+
+##### [08/27 목요일]
++ [BOJ1102번: 발전소](https://www.acmicpc.net/problem/1102)
++ [BOJ11724번: 연결 요소의 개수](https://www.acmicpc.net/problem/11724)
