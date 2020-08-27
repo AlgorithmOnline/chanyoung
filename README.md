@@ -49,4 +49,4 @@
 
 ##### [08/27 목요일]
 + [BOJ1562번: 계단 수](https://www.acmicpc.net/problem/1562)
-+ []()
++ [BOJ4949번: 균형잡힌 세상](https://www.acmicpc.net/problem/4949)
