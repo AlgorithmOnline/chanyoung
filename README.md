@@ -53,4 +53,4 @@
 
 ##### [08/28 금요일]
 + [BOJ13308번: 주유소](https://www.acmicpc.net/problem/13308)
-+ []()
++ [PG12904번: 가장 긴 팰린드롬](https://programmers.co.kr/learn/courses/30/lessons/12904)
