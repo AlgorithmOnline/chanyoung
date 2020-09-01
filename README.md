@@ -61,6 +61,6 @@
 
 ##### [09/01 화요일]
 + [BOJ17836번: 공주님을 구해라!](https://www.acmicpc.net/problem/17836)
-+ []()
++ [BOJ18353번: 병사 배치하기](https://www.acmicpc.net/problem/18353)
 
 
