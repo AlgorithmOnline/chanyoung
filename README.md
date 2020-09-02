@@ -63,4 +63,8 @@
 + [BOJ17836번: 공주님을 구해라!](https://www.acmicpc.net/problem/17836)
 + [BOJ18353번: 병사 배치하기](https://www.acmicpc.net/problem/18353)
 
+##### [09/02 수요일]
++ [BOJ12865번: 평범한 배낭](https://www.acmicpc.net/problem/12865)
++ [BOJ3474번: 교수가 된 현우](https://www.acmicpc.net/problem/3474)
+
 
