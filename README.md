@@ -67,4 +67,7 @@
 + [BOJ12865번: 평범한 배낭](https://www.acmicpc.net/problem/12865)
 + [BOJ3474번: 교수가 된 현우](https://www.acmicpc.net/problem/3474)
 
+##### [09/03 목요일]
++ [BOJ14719번: 빗물](https://www.acmicpc.net/problem/14719)
++ []()
 
