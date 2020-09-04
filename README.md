@@ -71,3 +71,7 @@
 + [BOJ14719번: 빗물](https://www.acmicpc.net/problem/14719)
 + [BOJ13904번: 과제](https://www.acmicpc.net/problem/13904)
 
+##### [09/04 금요일]
++ [BOJ1010번: 다리 놓기](https://www.acmicpc.net/problem/1010)
++ [BOJ1436번: 영화감독 숌](https://www.acmicpc.net/problem/1436)
+
