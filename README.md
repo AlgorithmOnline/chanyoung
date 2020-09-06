@@ -75,3 +75,7 @@
 + [BOJ1010번: 다리 놓기](https://www.acmicpc.net/problem/1010)
 + [BOJ1436번: 영화감독 숌](https://www.acmicpc.net/problem/1436)
 
+##### [09/07 월요일]
++ [PG12936번: 줄 서는 방법](https://programmers.co.kr/learn/courses/30/lessons/12936)
++ []()
+
