@@ -77,5 +77,9 @@
 
 ##### [09/07 월요일]
 + [PG12936번: 줄 서는 방법](https://programmers.co.kr/learn/courses/30/lessons/12936)
++ [PG1832번: 보행자 천국](https://programmers.co.kr/learn/courses/30/lessons/1832)
+
+##### [09/08 화요일]
++ [PG49191번: 순위](https://programmers.co.kr/learn/courses/30/lessons/49191)
 + []()
 
