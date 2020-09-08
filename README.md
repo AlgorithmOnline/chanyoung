@@ -81,5 +81,5 @@
 
 ##### [09/08 화요일]
 + [PG49191번: 순위](https://programmers.co.kr/learn/courses/30/lessons/49191)
-+ []()
++ [BOJ1509번: 팰린드롬 분할](https://www.acmicpc.net/problem/1509)
 
