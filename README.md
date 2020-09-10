@@ -87,5 +87,13 @@
 + [PG17676번: 추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676)
 + [BOJ16947번: 서울 지하철 2호선](https://www.acmicpc.net/problem/16947)
 
+##### [09/10 목요일]
++ [PG12913번: 땅따먹기](programmers.co.kr/learn/courses/30/lessons/12913)
++ [PG60062번: 외벽 점검](programmers.co.kr/learn/courses/30/lessons/60062)
+
+##### [09/11 금요일]
++ []()
++ []()
+
  
 
