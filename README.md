@@ -92,8 +92,8 @@
 + [PG60062번: 외벽 점검](programmers.co.kr/learn/courses/30/lessons/60062)
 
 ##### [09/11 금요일]
-+ []()
-+ []()
++ [PG67260번: 동굴 탐험](https://programmers.co.kr/learn/courses/30/lessons/67260)
++ [BOJ1152번: 단어의 개수](https://www.acmicpc.net/problem/1152)
 
  
 
