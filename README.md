@@ -95,5 +95,9 @@
 + [PG67260번: 동굴 탐험](https://programmers.co.kr/learn/courses/30/lessons/67260)
 + [BOJ1152번: 단어의 개수](https://www.acmicpc.net/problem/1152)
 
+##### [09/14 월요일]
++ [BOJ1613번: 역사](https://www.acmicpc.net/problem/1613)
++ [BOJ9205번: 맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205)
+
  
 
