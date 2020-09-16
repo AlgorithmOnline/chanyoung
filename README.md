@@ -103,5 +103,10 @@
 + [BOJ3090번: 차이를 최소로](https://www.acmicpc.net/problem/3090)
 + [BOJ1738번: 골목길](https://www.acmicpc.net/problem/1738)
 
+
+##### [09/16 수요일]
++ [BOJ6588번: 골드바흐의 추측](https://www.acmicpc.net/problem/6588)
++ [BOJ6593번: 상범 빌딩](https://www.acmicpc.net/problem/6593)
+
  
 
