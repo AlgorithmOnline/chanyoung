@@ -108,5 +108,12 @@
 + [BOJ6588번: 골드바흐의 추측](https://www.acmicpc.net/problem/6588)
 + [BOJ6593번: 상범 빌딩](https://www.acmicpc.net/problem/6593)
 
+##### [09/17 목요일]
++ [BOJ11657번: 타임머신](https://www.acmicpc.net/problem/11657)
++ [BOJ12757번: 전설의 JBNU](https://www.acmicpc.net/problem/12757)
+
+##### [09/18 금요일]
++ [BOJ4485번: 녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485)
++ [BOJ17141번: 연구소2](https://www.acmicpc.net/problem/17141)
  
 
