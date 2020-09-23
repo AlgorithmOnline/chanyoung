@@ -120,3 +120,12 @@
 + [BOJ18223번: 민준이와 마산 그리고 건우](https://www.acmicpc.net/problem/18223)
 + [BOJ18808번: 스티커 붙이기](https://www.acmicpc.net/problem/18808)
 
+##### [09/22 화요일]
++ [BOJ14238번: 출근 기록](https://www.acmicpc.net/problem/14238)
++ [BOJ12969번: ABC](https://www.acmicpc.net/problem/12969)
+
+
+##### [09/23 수요일]
++ [BOJ14588번: Line Friends (Small)](https://www.acmicpc.net/problem/14588)
++ [BOJ17478번: 재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)
+
