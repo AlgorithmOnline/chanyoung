@@ -129,3 +129,15 @@
 + [BOJ14588번: Line Friends (Small)](https://www.acmicpc.net/problem/14588)
 + [BOJ17478번: 재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)
 
+##### [09/24 목요일]
++ BOJ2493번: 탑
++ BOJ6198번: 옥상 정원 꾸미기
+
+##### [09/25 금요일]
++ BOJ1922번: 네트워크 연결
++ BOJ6497번: 전력난
+
+##### [09/28 월요일]
++ [PG12952번: N-Queen](https://programmers.co.kr/learn/courses/30/lessons/12952)
++ [BOJ1238번: 파티](https://www.acmicpc.net/problem/1238)
+
