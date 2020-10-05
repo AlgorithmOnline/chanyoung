@@ -141,3 +141,15 @@
 + [PG12952번: N-Queen](https://programmers.co.kr/learn/courses/30/lessons/12952)
 + [BOJ1238번: 파티](https://www.acmicpc.net/problem/1238)
 
+##### [09/29 화요일]
++ 
++ 
+
+##### [10/05 월요일]
++ 
++ 
+
+##### [10/06 화요일]
++ BOJ1800번: 인터넷 설치
++ BOJ17182번: 우주 탐사선
+
